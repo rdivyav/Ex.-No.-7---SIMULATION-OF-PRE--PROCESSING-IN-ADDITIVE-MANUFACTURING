@@ -46,9 +46,8 @@
 
 ![Alt text](<Screenshot 2023-12-11 154632.png>)
 
-
-
 ## Output:
+![Screenshot 2024-01-02 181854](https://github.com/rdivyav/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/148604723/5dae833f-3970-42c3-acda-6b0893cdef5c)
 
 ### Name:Divya R V
 ### Register Number:23014030
